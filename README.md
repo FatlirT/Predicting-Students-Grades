@@ -1,3 +1,13 @@
+### Introduction
+
+Predicting students’ academic performance is a very old area of study, with lasting interest. This is because a student’s academic success is vital for communities to develop and continue succeeding. With the rise in adoption of e-learning platforms and in general more data being collected online on peoples’ internet usage, we can take advantage of high computing power nowadays to process and analyse this data, and use it to make predictions on students’ performance. To predict a students' performance however, you need data to base your predictions on, which is another challenge. What data is useful in predicting a student’s performance, the factors best influence students’ academic performance? So the accuracy of our prediction is hindered or helped by the attributes we consider. Prior investigation and experiments can be done to determine which features influence students' academic success in order gather data on the best predictors for student success to ensure better predictions. 
+
+Using data analysis techniques, we can plot correlation of certain features to the student’s academic performance, to determine which features are more correlated with our target we wish to predict. Once we have determined our set of attributes, we can feed in the information we have collected on these attributes to a Machine Learning Algorithm in to create a model which can take in new data and predict the student’s performance. 
+
+The software in this repository allows a user to test the effectiveness of different algorithms in predicting students' grades based on a dataset that they possess. They can also cleanse the dataset with-in the application aswell as provide meta-data of attributes and perform some transformations on the data as required.
+
+
+
 ### User Guide:
 
 
